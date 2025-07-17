@@ -1,0 +1,72 @@
+{
+  "language": {
+    "es": "Spanish",
+    "en": "English",
+    "title": "Language",
+    "select": "Select language"
+  },
+  "firebase": {
+    "auth/wrong-password": "Invalid credentials",
+    "auth/invalid-email": "Invalid credentials",
+    "auth/invalid-credential": "Invalid credentials",
+    "auth/user-not-found": "User not found",
+    "auth/email-already-in-use": "Email already in use",
+    "auth/too-many-requests": "Server is bussy, please wait"
+  },
+  "login": {
+    "title": "Sign in",
+    "email": "Email",
+    "email_placeholder": "Enter your email",
+    "password": "Password",
+    "password_placeholder": "Enter your password",
+    "forgot_details": "Forgot your details?",
+    "login_button": "Sign in",
+    "no_account": "Don't you have account?",
+    "register": "Register"
+  },
+  "register": {
+    "title": "Register",
+    "email": "Email",
+    "email_placeholder": "Enter your email",
+    "password": "Password",
+    "password_placeholder": "Enter your password",
+    "register_button": "Register",
+    "account": "Do you have an account?",
+    "login": "Login"
+  },
+  "recover": {
+    "title": "Recover",
+    "email": "Email",
+    "email_placeholder": "Enter your email",
+    "recover_button": "Recover",
+    "account": "Do you have an account?",
+    "login": "Login",
+    "toast_email_sent": "Recover message sent to email"
+  },
+  "home": {
+    "title": "Task Manager",
+    "add_task_button": "+ Add New Task",
+    "new_task": "New Task",
+    "new_task_title": "Title",
+    "new_task_title_placeholder": "Enter task's title",
+    "new_task_create_task": "Create Task",
+    "new_task_cancel": "Cancel",
+    "create": "Create",
+    "modify": "Modify",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "created_at": "Created at",
+    "no_tasks": "No tasks available",
+    "total": "Total",
+    "completed": "Completed",
+    "pending": "Pending",
+    "question_task_delete": "Are you sure about deleting this task?",
+    "toast_task_created": "Task created",
+    "toast_task_deleted": "Task deleted",
+    "toast_task_modified": "Task modified"
+  },
+  "logout": "Log out",
+  "request_error": "There was an error in the request petition",
+  "login_credentials": "Invalid credentials",
+  "register_error": "Error in the register"
+}

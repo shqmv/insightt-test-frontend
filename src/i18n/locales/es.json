@@ -1,0 +1,77 @@
+{
+  "language": {
+    "es": "Español",
+    "en": "Inglés",
+    "title": "Idioma",
+    "select": "Seleccione un idioma"
+  },
+  "firebase": {
+    "auth/wrong-password": "Credenciales inválidas",
+    "auth/invalid-email": "Credenciales inválidas",
+    "auth/invalid-credential": "Credenciales inválidas",
+    "auth/user-not-found": "Usuario no encontrado",
+    "auth/email-already-in-use": "Correo en uso",
+    "auth/too-many-requests": "Servidor ocupado, por favor espere."
+  },
+  "login": {
+    "title": "Inicio de sesión",
+    "email": "Correo",
+    "email_placeholder": "Ingrese su correo",
+    "password": "Contraseña",
+    "password_placeholder": "Ingrese su contraseña",
+    "forgot_details": "¿Olvidó sus datos?",
+    "login_button": "Iniciar sesión",
+    "no_account": "¿No tienes cuenta?",
+    "register": "Regístrate"
+  },
+  "register": {
+    "title": "Registro",
+    "email": "Correo",
+    "email_placeholder": "Ingrese su correo",
+    "password": "Contraseña",
+    "password_placeholder": "Ingrese su contraseña",
+    "register_button": "Registrarme",
+    "account": "¿Ya tienes una cuenta?",
+    "login": "Inicia sesión"
+  },
+  "recover": {
+    "title": "Recuperar datos",
+    "email": "Correo",
+    "email_placeholder": "Ingrese su correo",
+    "recover_button": "Recuperar",
+    "account": "¿Ya tienes cuenta?",
+    "login": "Inicia sesión",
+    "toast_email_sent": "Mensaje de recuperación enviado al correo"
+  },
+  "home": {
+    "title": "Gestión de tareas",
+    "add_task_button": "+ Añadir nueva tarea",
+    
+    "new_task": "Nueva tarea",
+    "new_task_title": "Título",
+    "new_task_title_placeholder": "Ingrese el título de la tarea",
+    "new_task_create_task": "Crear tarea",
+    "new_task_cancel": "Cancelar",
+
+    "create": "Crear",
+    "modify": "Modificar",
+    "delete": "Borrar",
+    "cancel": "Cancelar",
+    "created_at": "Creado el",
+
+    "no_tasks": "No hay tareas disponibles",
+    "total": "Total",
+    "completed": "Completadas",
+    "pending": "Pendientes",
+
+    "question_task_delete": "¿Estás seguro de eliminar esta tarea?",
+
+    "toast_task_created": "Tarea creada",
+    "toast_task_deleted": "Tarea eliminada",
+    "toast_task_modified": "Tarea modificada"
+  },
+  "logout": "Cerrar sesión",
+  "request_error": "Hubo un error en la petición",
+  "login_credentials": "Error al iniciar sesión. Verifica tus credenciales.",
+  "register_error": "Error en el registro"
+}
