@@ -1,4 +1,4 @@
-export const API_BASE_URL = `${import.meta.env.VITE_API_URL}`;
+export const API_BASE_URL = `http://localhost:4000/api`;
 
 export const API_USER = `${API_BASE_URL}/users`;
 export const API_USER_CREATE = `${API_BASE_URL}/users/register`;

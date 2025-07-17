@@ -99,6 +99,7 @@ export const AuthProvider = ({ children }: { children: ReactNode }) => {
   });
 
   const login = async (email: string, password: string) => {
+    console.log("login");
     try {
       const response = await sendRequest<ILoginResponse>({
         url: API_USER_LOGIN, options: {
