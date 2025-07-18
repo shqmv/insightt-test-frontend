@@ -9,5 +9,5 @@ export const API_USER_LOGOUT = `${API_BASE_URL}/users/logout`;
 export const API_TASK = `${API_BASE_URL}/tasks`;
 export const API_TASK_CREATE = `${API_TASK}/`;
 export const API_TASK_UPDATE = `${API_TASK}/:id`;
-export const API_TASK_UPDATE_STATUS = `${API_TASK}/done/:id`;
+export const API_TASK_UPDATE_STATUS = `https://insightt-test-backend.onrender.com/api/tasks/done/:id`;
 export const API_TASK_DELETE = `${API_TASK}/:id`;
